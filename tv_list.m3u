@@ -3,9 +3,9 @@
 udp://@233.136.41.158:1234
 #EXTINF:-1 group-title="Lietuviski", LRT Kultura HD
 udp://@239.2.4.204:1234
-#EXTINF:-1 group-title="Lietuviski", LNK
+#EXTINF:-1 group-title="Lietuviski", LNK HD
 udp://@239.255.12.206:1234
-#EXTINF:-1,group-title="Lietuviski", LNK HD2
+#EXTINF:-1,group-title="Lietuviski", LNK
 udp://@239.255.13.28:1234
 #EXTINF:-1 group-title="Lietuviski", TV3 HD
 udp://@239.255.12.13:1234
@@ -17,6 +17,8 @@ udp://@233.136.41.38:1234
 udp://@233.136.41.116:1234
 #EXTINF:-1 group-title="Lietuviski", TV1
 udp://@233.136.41.42:1234
+#EXTINF:-1 group-title="Lietuviski", BTV HD
+udp://@239.255.12.209:1234
 #EXTINF:-1 group-title="Lietuviski", BTV
 udp://@233.136.41.20:1234
 #EXTINF:-1 group-title="Lietuviski", Lietuvos rytas HD
@@ -121,7 +123,11 @@ udp://@233.136.41.163:1234
 udp://@233.136.41.162:1234
 #EXTINF:-1 group-title="Sports", Sport Baltic HD
 udp://@239.255.12.10:1234
+#EXTINF:-1 group-title="Sports", TVplay Sports HD 
+udp://@239.255.12.10:1234
 #EXTINF:-1 group-title="Sports", TVplay Sports
+udp://@233.136.41.36:1234
+#EXTINF:-1 group-title="Sports", TVplay Sports +
 udp://@239.255.12.74:1234
 #EXTINF:-1 group-title="Movies", TV1000 East
 udp://@233.136.41.41:1234
