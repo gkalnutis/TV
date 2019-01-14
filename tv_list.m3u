@@ -12,11 +12,11 @@ udp://@239.255.12.13:1234
 #EXTINF:-1 group-title="Lietuviski", Siauliu Televizija
 udp://@233.136.41.95:1234
 #EXTINF:-1 group-title="Lietuviski", TV6
-udp://@233.136.41.38:1234
+udp://@239.255.12.212:1234
 #EXTINF:-1 group-title="Lietuviski", TV8
 udp://@233.136.41.116:1234
 #EXTINF:-1 group-title="Lietuviski", TV1
-udp://@233.136.41.42:1234
+udp://@239.255.12.210:1234
 #EXTINF:-1 group-title="Lietuviski", BTV HD
 udp://@239.255.12.209:1234
 #EXTINF:-1 group-title="Lietuviski", BTV
